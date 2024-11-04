@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "dash-stack",
   "license": "ISC",
   "description": "",
   "dependencies": {
